@@ -1,0 +1,12 @@
+FirstName LastName Assignment 01 Accomplishments:
+
+Functional Requirements
+
+- Background rendering (loaded through Content Pipeline, matches window size) [x/2]
+- Static image rendering (non-animated image displayed) [x/2]
+- Animated sprite sequence 1 (sprite sheet using SimpleAnimation, different from class example) [x/4]
+- Animated sprite sequence 2 (second, visually distinct animation using SimpleAnimation) [x/4]
+- Text rendering using SpriteFont [x/2]
+- Automatic movement of on-screen content (no player input) [x/2]
+- Keyboard-controlled movement (clear and observable) [x/3]
+- Submission requirements met (GitHub + Brightspace match, completed markers) [x/1]
